@@ -1,0 +1,2 @@
+aiogram==3.0.0b6
+bitly-api-py3==0.3
