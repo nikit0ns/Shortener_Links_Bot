@@ -3,7 +3,7 @@
 - :scissors: The Telegram Bot that shortens your links.
 - :link: Just send the link to the Bot and it will shorten your link.
 - :books: There is the `'bitly_api'` library is connected here to shorten links.
-- :open_file_folder: The Bot has two commands: `/start`, `/help`.
+- :open_file_folder: The Bot has two commands: `/start` , `/help`.
 
 ---
 
