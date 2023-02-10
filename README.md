@@ -10,6 +10,6 @@
 # Screenshots
  
  ![Shortener_Links_Bot_Start](https://github.com/nikit0ns/Shortener_Links_Bot/blob/master/Screenshots/Shortener_Links_Bot_Start.png)
- ![Shortener_Links_Bot_Short](https://github.com/nikit0ns/Shortener_Links_Bot/blob/master/Screenshots/Shortener_Links_Bot_Short.png
+ ![Shortener_Links_Bot_Short](https://github.com/nikit0ns/Shortener_Links_Bot/blob/master/Screenshots/Shortener_Links_Bot_Short.png)
  ![Shortener_Links_Bot_Commands](https://github.com/nikit0ns/Shortener_Links_Bot/blob/master/Screenshots/Shortener_Links_Bot_Commands.png)
 
