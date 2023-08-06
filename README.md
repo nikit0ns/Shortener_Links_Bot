@@ -1,3 +1,5 @@
+[![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg)](https://stand-with-ukraine.pp.ua/)
+
 # @Shortener_Links_Bot - Telegram Bot
 
 - :scissors: The Telegram Bot that shortens your links.
